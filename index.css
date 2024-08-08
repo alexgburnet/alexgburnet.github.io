@@ -25,6 +25,8 @@ body, h1, p, div {
     border-radius: 10px;
     background-color: rgba(163, 163, 163, 0.1);
     box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.4);
+    max-width: 80%;
+    max-height: 80%;
   }
   
   h1 {
